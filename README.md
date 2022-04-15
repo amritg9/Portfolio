@@ -10,8 +10,8 @@
 
 ## Certification
 1. [Machine learning Hands on learning] (https://github.com/amritg9/Portfolio/blob/main/udemyMachineLearning.pdf)
-2. [Introduction to Genomic Technologies](https://coursera.org/share/0a0a5c258dd7ce9b7ad)
+2. [Introduction to Genomic Technologies](https://github.com/amritg9/Portfolio/blob/main/CourseraGenomicTechnologies.pdf)
 
 ## Projects
-1. [AI Powered Chest Disease Detection and Classification](https://coursera.org/share/9c63b741ccbe56b)
+1. [AI Powered Chest Disease Detection and Classification](https://github.com/amritg9/Portfolio/blob/main/CourseraAIPoweredChestDisease.pdf)
 
