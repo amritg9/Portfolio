@@ -7,11 +7,12 @@
 ## Transcripts
 
 ## SAT Scores
+1. [College Board SAT Scores](https://github.com/amritg9/Portfolio/blob/main/SATScores.pdf)
 
-## Certification
-1. [Machine learning Hands on learning] (https://github.com/amritg9/Portfolio/blob/main/udemyMachineLearning.pdf)
-2. [Introduction to Genomic Technologies](https://github.com/amritg9/Portfolio/blob/main/CourseraGenomicTechnologies.pdf)
+## Certificates
+1. [Machine learning Hands on learning (Udemy)](https://github.com/amritg9/Portfolio/blob/main/udemyMachineLearning.pdf)
+2. [Introduction to Genomic Technologies (Coursera)](https://github.com/amritg9/Portfolio/blob/main/CourseraGenomicTechnologies.pdf)
 
 ## Projects
-1. [AI Powered Chest Disease Detection and Classification](https://github.com/amritg9/Portfolio/blob/main/CourseraAIPoweredChestDisease.pdf)
+1. [AI Powered Chest Disease Detection and Classification (Coursera)](https://github.com/amritg9/Portfolio/blob/main/CourseraAIPoweredChestDisease.pdf)
 
