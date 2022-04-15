@@ -11,5 +11,5 @@
 ## Education and Training
 
 ## Projects
-1. [AI Powered Chest Disease Detection and Classification]()
+1. [AI Powered Chest Disease Detection and Classification](https://github.com/amritg9/Portfolio/blob/main/CourseraAIPoweredChestDisease.pdf)
 
