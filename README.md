@@ -23,8 +23,8 @@
 3. [UIL Solo & Ensemble Outstanding Musician Award]()
 4. [2019 Honors Performance Series Performer at Carnegie Hall]()
 ### Performances
-1. [Choir Performances]()
-2. [Theaterical Performances]()
+1. [Choir Performances](https://github.com/amritg9/Portfolio/tree/main/Performances)
+2. [Theaterical Performances](https://github.com/amritg9/Portfolio/tree/main/Performances)
 ### Volunteering
-1. [Plano East Helping Hands Club (Co-founder)]()
-2. [Music Production Club (Founder)]()
+1. [Plano East Helping Hands Club (Co-founder)](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
+2. [Music Production Club (Founder)](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
