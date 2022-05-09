@@ -1,3 +1,6 @@
+#### Medical Imaging analysis and applicability
+##### 2022 - Present
+I developed some interest in medical imaging and studying datasets used for various medical applications and diagnosis. So, I take up this project to research various datasets and their applicability areas in medical diagnosis and automated diagnosis areas. I am looking forward to consolidate all my research findings into a paper for the benefit of the medical research community.
 #### Teacher-Supervised Chemistry Research
 ##### 2021 - Present
 I'm currently researching hydroxyapatite and collagen in bone for their contribution to piezo and pyroelectricity, under the supervision of Mrs. Karen Compton. By studying the morphology of these two components, how their properties vary under different stress conditions, and their relation to each other, a clearer picture of the creation and role of electric properties in the bone can be established. This is an important area of research because it can bypass biomedical applications that use intrusive technology - such as pacemakers and - by using natural bioelectricity.
