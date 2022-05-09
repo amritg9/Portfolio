@@ -8,12 +8,14 @@
 * The Open Access Series of Imaging Studies (OASIS) http://www.oasis-brains.org/ 
 * Alzheimer’s Disease Neuroimaging Initiative (ADNI) http://adni.loni.ucla.edu/
 * [Facebook AI + NYU FastMRI](https://fastmri.org/dataset/) includes two types of MRI scans: knee MRIs and the brain (neuro) MRIs, containing training, validation, and masked test sets. Also includes PyTorch data loaders in open-sourced GitHub Repository
-### Cancer Imaging 
+### Cancer Imaging archives and databases
 * The Cancer Imaging Archive (TCIA) http://www.cancerimagingarchive.net/ (Collections)
 * Breast Cancer Digital Repository https://bcdr.eu/
 * BCNB: Early Breast Cancer Core-Needle Biopsy WSI Dataset, 
   * https://bupt-ai-cz.github.io/BCNB/, 
   * https://github.com/bupt-ai-cz/BALNMP#bcnb-dataset
+* The Cancer Genome Atlas (TCGA) http://cancergenome.nih.gov/ https://tcga-data.nci.nih.gov/tcga/
+* International Cancer Genome Consortium http://icgc.org, (Data portal) http://dcc.icgc.org/
 ### Mammography Imaging
 * DDSM: Digital Database for Screening Mammography http://marathon.csee.usf.edu/Mammography/Database.html
 * The Mammographic Image Analysis Society (MIAS) mini-database http://peipa.essex.ac.uk/info/mias.html
@@ -57,3 +59,4 @@
 * https://archive.ics.uci.edu/ml/datasets.php
 * Datasets reporting formats for pathologists http://www.rcpath.org/publications-media/publications/datasets
 * DermNet - Skin disease atlas (23 image classes and 23,000 images): http://www.dermnet.com/
+* The UCSB Bio-Segmentation Benchmark dataset http://www.bioimage.ucsb.edu/research/biosegmentation
