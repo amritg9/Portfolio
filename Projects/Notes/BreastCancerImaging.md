@@ -34,3 +34,7 @@ Readings and possible citations:
   - by biopsy result (Benign/suspect/Insufficient/Un-representative/malignant)
   - definitive diagnosis (Benign/C.I.S/Invasive C./Micro C./Others)
   - by BIRADS classification 
+ - Displayed Metadata
+   - Lesions 
+   - segmentation - (oblique / cranium caudal)
+     - various statistical metrics (Area/perimeter/kurtosis/std deviation/mode/)
