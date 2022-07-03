@@ -51,5 +51,17 @@ Readings and possible citations:
   - Data format (vcf/maf)
 - Terms 
   - [Mutation Annotation Format (MAF)](https://docs.gdc.cancer.gov/Data/File_Formats/MAF_Format/#:~:text=Mutation%20Annotation%20Format%20(MAF)%20is,(or%20open%2Daccess).) is a tab-delimited text file with aggregated mutation information from VCF Files and are generated on a project-level
-
-
+- Filtration criteria for cases
+  - Primary site (i,e location of the body i,e bronchus, colon, spinal cord..)
+  - Program and NCI Project
+  - Disease type 
+  - Gender
+  - Age / vital status or ethnicity
+ - NIC/TGCA provides 3 kinds of analyses that includes 
+   - venn diagram based set operations
+   - coort comparison
+   - clinical analysis - graphs and interactive bar charts by demographics, survival, ethnicity, gender, race, age and primary diagnosis 
+ - Data exploration feature by cases, clinical, genes and mutations with - 
+   - pie charts depicting distribution by project, disease type, gender and vital status 
+   - Available files by data category + mutations,genes etc by caseid and project for various body location (primary site) 
+- Which research and how would they be useful?
