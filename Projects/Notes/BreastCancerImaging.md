@@ -38,3 +38,18 @@ Readings and possible citations:
    - Lesions 
    - segmentation - (oblique / cranium caudal)
      - various statistical metrics (Area/perimeter/kurtosis/std deviation/mode/)
+
+#### [National Cancer Institute - Cancer Genome atlas program](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)
+- Contains 2.5PB+ of genimic, epigenomic, transcriptomic and proteomic data 
+- fully public and open source downloadable MAF formatted (tab-delimited text file with aggregated mutation) data
+- Data is broadly categorized by files and cases
+- Filtration criteria for files
+  - Data category - (simple nucleotide variation/sequencing reads/structural variation/copy number variation/transcriptome profiling/biospecimen/structural variation/dna methylation/clinical/proteome profiling/somatic structural variation/combined nucleotide variation)
+  - Data Type (Annotated Somatic Mutation/Raw Simple Somatic Mutation/Masked annotated somatic mutation/Aggregated somatic mutation/Masked somatic mutation)
+  - Experimental strategy (WXS/Targeted sequencing/WGS)
+  - Workflow type (GEnie simple somatic mutation/MuSE Annotation/MuTect2 Annotation/SomaticSniper annotation/Varscan2 annotation)
+  - Data format (vcf/maf)
+- Terms 
+  - [Mutation Annotation Format (MAF)](https://docs.gdc.cancer.gov/Data/File_Formats/MAF_Format/#:~:text=Mutation%20Annotation%20Format%20(MAF)%20is,(or%20open%2Daccess).) is a tab-delimited text file with aggregated mutation information from VCF Files and are generated on a project-level
+
+
