@@ -27,4 +27,5 @@
    * [TANRIC](http://bioinformatics.mdanderson.org/main/TANRIC:Overview) - An integrative web server for analyzing lncRNAs in cancer.
    * [TumorMap](https://tumormap.ucsc.edu/) - Interactive portal for visualizing high-dimensional omics data in a 2-dimensional projection rendered with Google Maps API
    * [Xena](http://xena.ucsc.edu/) -  Suite of web-based tools to visualize, integrate, and analyze cancer genomics and clinical data
- * Molecular characterizations and sequencing platforms
+ * [Molecular characterizations and sequencing platforms](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga/using-tcga/technology) - Molecular characterization tests look at the DNA and RNA in a tumor and in blood to determine the genetic characteristics of the organism. Looking at cancer at a molecular level helps in precise diagnosis to tell doctors more about the cause driving an individual cancer
+   * Multiple platforms from various institutes with specifications and instrument support
