@@ -29,6 +29,10 @@
 ### Performances
 1. [Choir Performances](https://github.com/amritg9/Portfolio/tree/main/Performances)
 2. [Theaterical Performances](https://github.com/amritg9/Portfolio/tree/main/Performances)
+3. [Choir performances - Leading National Anthem performance for Plano ISD]
 ### Volunteering
 1. [Plano East Helping Hands Club (Co-founder)](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
 2. [Music Production Club (Founder)](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
+3. Volunteering at the Local Hospice
+### Summer camps
+1. Summer 2022 Choir camp - Commerce city
