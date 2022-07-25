@@ -67,4 +67,14 @@ Readings and possible citations:
 - Which research and how would they be useful?
 
 [International Cancer Genome Consortium](http://icgc.org), [(Data portal)](http://dcc.icgc.org/)
-* Provides cancer data sets 
+* Provides cancer data sets with data analysis across multiple data repositories
+* The [repository]() is categorized by various cloud locations (AWS/Azure), data type (clinical, biospecimen), experimental strategy(mRNA, validation), file format(VCF, TCZ) and analysis and annotation software (MuSe/Sanger/STAR/TopHat) etc
+* Programmatic data analysis - 
+  * Enrichment analysis - 
+  * Cohort comparison
+  * Oncogrid - Visualize genetic alterations affecting a set of donors
+* Search facility 
+  * Search by Donor, Genes and Mutations
+  * Clinical data, somatic mutations, tumor specimen details and mutations can be obtained for a donor
+  * Also PanCancerAnalysisofWholeGenomes (PCAWG id) can also be obtained
+  * 
