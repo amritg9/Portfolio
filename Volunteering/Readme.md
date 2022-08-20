@@ -5,3 +5,6 @@ I had noticed throughout the year that because of the COVID-19 pandemic, opportu
 #### Music Production Club (founder)
 ##### 2022 - Present
 Because of my passion for singing, I founded the Music Production Club at my school; as a group, we have arranged, performed, and recorded successfully numerous times.  Recently, we finished performing our rendition of "Mr. Blue Sky", and are working towards a series of summer sessions and performances. 
+#### Hospice volunteering 
+##### 2021 - Present
+I started volunteering for Encompass Health Hospice around mid-2021. Talking to hospice patients, I find they need emotional support and enjoy their life. So, I decided to bring in choir singing to hospice patients and people living in assisted living facilities. I joined few Hospice groups (i,e Three Oaks Hospice and Medical city Hospice) to lead thr choir group singing as well as careing needs.  
