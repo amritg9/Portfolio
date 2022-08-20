@@ -11,3 +11,7 @@ I'm CPR certified and a member of the American Red Cross.I am currently taking E
 #### Music Production Club (founder)
 ##### 2022 - Present
 Because of my passion for singing, I founded the Music Production Club at my school; as a group, we have arranged, performed, and recorded successfully numerous times.  Recently, we finished performing our rendition of "Mr. Blue Sky", and are working towards a series of summer sessions and performances. 
+
+#### Other Volunteering 
+##### 2018-2019
+I joined Lion's Heart volunteering (lionsheartservices) to volunteer for many community efforts. One of the efforts that really connected me was Color a Smile that works to distribute artwork to put smile to people's faces. With my innate passion for creating artwork, I created 97 colored artwork for this organization. [Letter of recognition]()
