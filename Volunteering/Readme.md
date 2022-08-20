@@ -8,3 +8,5 @@ Because of my passion for singing, I founded the Music Production Club at my sch
 #### Hospice volunteering 
 ##### 2021 - Present
 I started volunteering for Encompass Health Hospice around mid-2021. Talking to hospice patients, I find they need emotional support and enjoy their life. So, I decided to bring in choir singing to hospice patients and people living in assisted living facilities. I joined few Hospice groups (i,e Three Oaks Hospice and Medical city Hospice) to lead thr choir group singing as well as careing needs.  
+#### Medical Volunteering
+I'm CPR certified and a member of the American Red Cross.I am currently taking Emergency Medical Technician (EMT) training. I wish to apply the skills I learn and apply them to make a difference for the larger community in need.
