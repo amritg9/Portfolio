@@ -15,3 +15,4 @@ Because of my passion for singing, I founded the Music Production Club at my sch
 #### Other Volunteering 
 ##### 2018-2019
 I joined Lion's Heart volunteering (lionsheartservices) to volunteer for many community efforts. One of the efforts that really connected me was Color a Smile that works to distribute artwork to put smile to people's faces. With my innate passion for creating artwork, I created 97 colored artwork for this organization. [Color a smile Letter](https://github.com/amritg9/Portfolio/blob/main/Volunteering/Ghosh%2C%20Amrit%20vl02.pdf)
+ 
