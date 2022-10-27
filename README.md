@@ -1,9 +1,9 @@
 # Amrit Ghosh 
-##### Plano East Senior High School, Plano TX 
+#### IB Student at Plano East Senior High
 
 ## Academic Portfolio
 ### Resume
-1. [Resume](https://docs.google.com/document/d/1KmP4IeJAAQtHqP9TSOuK8iRh0DgByDDDp1UaCrrDKuE/edit#)
+1. [Resume](https://docs.google.com/document/d/1VT8rC4aqFWtIULC7IGAugrSD9ABvgPHYTgmU08cPb3Q/edit)
 ### GPA and Transcripts
 1. [Transcript (PESH) - Available upon request](https://github.com/amritg9/Portfolio/blob/main/AmritGhoshTranscript.pdf)
 ### SAT Scores - 
