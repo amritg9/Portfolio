@@ -7,13 +7,13 @@
 
 ### GPA and Rank 
 1. [Rank GPA: 4.64 (Weighted) Class Rank: 35/1370](https://drive.google.com/file/d/1qO-JbZHK5IpJgG0EGGwQN-sZv0vAilOR/view?usp=sharing)
-2. [SAT : 1580   PSAT: 1480]
+2. [SAT : 1580   PSAT: 1480](https://drive.google.com/file/d/1bq0KrZwGubmSZv2WYrRdmV6Nn8rV90KW/view?usp=sharing)
 3. National Merit Scholarship - Semifinalist 2022 
-4. President's Outstanding Academic Award 
+4. [President's Outstanding Academic Award](https://drive.google.com/file/d/16gG3B9gPDE6Zk7gYrsa6CK1OjPLGPK38/view?usp=sharing)
 5. AI powered Chest disease prediction
 6. Introduction to Genomic Technologies
 7. Deep learning specialization - Coursera - continuing
-8. EMTS Paramedic Training - continuing 
+8. [EMTS Paramedic Training - continuing]()
 ### Certificates
 1. [Machine learning Hands on learning (Udemy)](https://github.com/amritg9/Portfolio/blob/main/udemyMachineLearning.pdf)
 2. [Introduction to Genomic Technologies (Coursera)](https://github.com/amritg9/Portfolio/blob/main/CourseraGenomicTechnologies.pdf)
