@@ -1,12 +1,9 @@
 # Amrit Ghosh 
 #### IB Student at Plano East Senior High
+### [Resume](https://docs.google.com/document/d/1VT8rC4aqFWtIULC7IGAugrSD9ABvgPHYTgmU08cPb3Q/edit)
 
-## My Portfolio
-### Resume
-1. [Resume](https://docs.google.com/document/d/1VT8rC4aqFWtIULC7IGAugrSD9ABvgPHYTgmU08cPb3Q/edit)
-
-### GPA and Rank 
-1. [Rank GPA: 4.64 (Weighted) Class Rank: 35/1370](https://drive.google.com/file/d/1qO-JbZHK5IpJgG0EGGwQN-sZv0vAilOR/view?usp=sharing)
+### Academics
+1. [Rank GPA: 4.64 (Weighted) Class Rank: 34/1410](https://drive.google.com/file/d/1qO-JbZHK5IpJgG0EGGwQN-sZv0vAilOR/view?usp=sharing)
 2. [SAT : 1580   PSAT: 1480](https://drive.google.com/file/d/1bq0KrZwGubmSZv2WYrRdmV6Nn8rV90KW/view?usp=sharing)
 3. National Merit Scholarship - Semifinalist 2022 
 4. [President's Outstanding Academic Award](https://drive.google.com/file/d/16gG3B9gPDE6Zk7gYrsa6CK1OjPLGPK38/view?usp=sharing)
