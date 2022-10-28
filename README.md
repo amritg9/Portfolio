@@ -1,17 +1,19 @@
 # Amrit Ghosh 
 #### IB Student at Plano East Senior High
 
-## Academic Portfolio
+## My Portfolio
 ### Resume
 1. [Resume](https://docs.google.com/document/d/1VT8rC4aqFWtIULC7IGAugrSD9ABvgPHYTgmU08cPb3Q/edit)
-### GPA and Transcripts
-1. [Transcript (PESH) - Available upon request](https://github.com/amritg9/Portfolio/blob/main/AmritGhoshTranscript.pdf)
-### SAT Scores - 
-1. [SAT/PSAT Scores (College Board) - Available upon request](https://github.com/amritg9/Portfolio/blob/main/SATScores.pdf)
-### Scholastic Awards
-1. [President's Award for Outstanding Academic Excellence]()
-2. [District Science Fair 1st Prize Winner]()
-3. [Duke TIP National Grand Recognition Award]()
+
+### GPA and Rank 
+1. [Rank GPA: 4.64 (Weighted) Class Rank: 35/1370](https://drive.google.com/file/d/1qO-JbZHK5IpJgG0EGGwQN-sZv0vAilOR/view?usp=sharing)
+2. [SAT : 1580   PSAT: 1480]
+3. National Merit Scholarship - Semifinalist 2022 
+4. President's Outstanding Academic Award 
+5. AI powered Chest disease prediction
+6. Introduction to Genomic Technologies
+7. Deep learning specialization - Coursera - continuing
+8. EMTS Paramedic Training - continuing 
 ### Certificates
 1. [Machine learning Hands on learning (Udemy)](https://github.com/amritg9/Portfolio/blob/main/udemyMachineLearning.pdf)
 2. [Introduction to Genomic Technologies (Coursera)](https://github.com/amritg9/Portfolio/blob/main/CourseraGenomicTechnologies.pdf)
