@@ -5,9 +5,10 @@
 ### Academics
 1. [Rank GPA: 4.64 (Weighted) Class Rank: 34/1404](https://drive.google.com/file/d/1O-y_HU9clQHOpGmMPAv9Qt1bHWfUyFj-/view?usp=sharing)
 2. [SAT : 1580   PSAT: 1480](https://drive.google.com/file/d/1bq0KrZwGubmSZv2WYrRdmV6Nn8rV90KW/view?usp=sharing)
-3. National Merit Scholarship - Semifinalist 2022 
-4. [President's Outstanding Academic Award](https://drive.google.com/file/d/16gG3B9gPDE6Zk7gYrsa6CK1OjPLGPK38/view?usp=sharing)
-5. ## Extracurricular portfolio
+3. [IB and AP Coursework](https://drive.google.com/file/d/1O-y_HU9clQHOpGmMPAv9Qt1bHWfUyFj-/view?usp=sharing)
+4. National Merit Scholarship - Semifinalist 2022 
+5. [President's Outstanding Academic Award](https://drive.google.com/file/d/16gG3B9gPDE6Zk7gYrsa6CK1OjPLGPK38/view?usp=sharing)
+6. ## Extracurricular portfolio
 ### Projects
 1. [Teacher-Supervised Chemistry Research](https://github.com/amritg9/Portfolio/tree/main/Projects)
 2. [Improving dense tissue breast cancer diagnosis with medical imaging]()
