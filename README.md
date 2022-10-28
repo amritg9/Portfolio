@@ -14,15 +14,15 @@
 6. Introduction to Genomic Technologies
 7. Deep learning specialization - Coursera - continuing
 8. [EMTS Paramedic Training - continuing]()
-### Certificates
-1. [Machine learning Hands on learning (Udemy)](https://github.com/amritg9/Portfolio/blob/main/udemyMachineLearning.pdf)
-2. [Introduction to Genomic Technologies (Coursera)](https://github.com/amritg9/Portfolio/blob/main/CourseraGenomicTechnologies.pdf)
+## Extracurricular portfolio
 ### Projects
 1. [Teacher-Supervised Chemistry Research](https://github.com/amritg9/Portfolio/tree/main/Projects)
 2. [AI Powered Chest Disease Detection and Classification (Coursera)](https://github.com/amritg9/Portfolio/blob/main/CourseraAIPoweredChestDisease.pdf)
 3. [Volunteer Opportunity App using Python Web scraping](https://github.com/amritg9/Portfolio/tree/main/Projects)
 4. [Saving a baby infants life in a hot car with Arduino alarm](https://github.com/amritg9/Portfolio/tree/main/Projects)
-## Extracurricular portfolio
+### Certificates
+1. [Machine learning Hands on learning (Udemy)](https://github.com/amritg9/Portfolio/blob/main/udemyMachineLearning.pdf)
+2. [Introduction to Genomic Technologies (Coursera)](https://github.com/amritg9/Portfolio/blob/main/CourseraGenomicTechnologies.pdf)
 ### Awards
 1. [2022 Texas All-State Choir member]()
 2. [2017-2022 consecutive Texas All-Region Choir member]()
