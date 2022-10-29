@@ -23,8 +23,8 @@
 ## Extracurricular
 ### Performances
 1. [Competitive Singing](https://github.com/amritg9/Portfolio/tree/main/Performances)
-2. [Theaterical Performances](https://github.com/amritg9/Portfolio/tree/main/Performances)
-3. National Anthem at [PISD Convocation 2022-2023](https://vimeo.com/737003485?ref=em-v-share) and [inter-school football game](https://youtu.be/nFfkYaXhgPI)
+2. National Anthem at [PISD Convocation 2022-2023](https://vimeo.com/737003485?ref=em-v-share) and [inter-school football game](https://youtu.be/nFfkYaXhgPI)
+3. [Theaterical Performances](https://github.com/amritg9/Portfolio/tree/main/Performances)
 ## Volunteering
 1. [Plano East Helping Hands Club (Co-founder)](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
 2. [Music Production Club (Founder)](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
