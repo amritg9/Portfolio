@@ -26,4 +26,8 @@ Although I was born and raised here, my roots are in Kolkata, India. I've always
 
 #### Speech and Debate 
 ##### 2017 - 2019
-As a Lincoln-Douglas debate performer, I participated in various competitive debate programs through DFW Speech and debate and also trained from a LD debate summer camp with Mean Green comet institute at University of Texas at Dallas (UTD). I also represented my school at an inter-IB speech and debate tournament hosted at Trinity IB high school, Euless TX. 
+As a Lincoln-Douglas debate performer, I participated in various competitive debate programs through DFW Speech and debate and also trained from a LD debate summer camp with Mean Green comet institute at University of Texas at Dallas (UTD). I also represented my school at an inter-IB speech and debate tournament hosted at Trinity IB high school, Euless TX.
+
+#### Amatuer Artist
+##### 2016 - present
+One of my hobbies is to draw paper sketches and digital artwork in my free time. I have created artworks for Bengali drama posters and video production for my choir teacher. I also have a passion for wood sculpting with bench saw machines.
