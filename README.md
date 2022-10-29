@@ -4,9 +4,10 @@
 
 ### Academics
 1. [Rank GPA: 4.64 (Weighted) Class Rank: 34/1404](https://drive.google.com/file/d/1O-y_HU9clQHOpGmMPAv9Qt1bHWfUyFj-/view?usp=sharing)
-2. [SAT : 1580   PSAT: 1480](https://drive.google.com/file/d/1bq0KrZwGubmSZv2WYrRdmV6Nn8rV90KW/view?usp=sharing)
+2. [SAT : 1580](https://drive.google.com/file/d/1a2gnwtxbuc-0jXOs51AWWZLOijMjbUPl/view?usp=share_link) PSAT: 1480](https://drive.google.com/file/d/1LFhcs2eaY2g-_sI3MxpdPtswsvZ2S_Cu/view?usp=share_link)
 3. [IB and AP Coursework](https://drive.google.com/file/d/1O-y_HU9clQHOpGmMPAv9Qt1bHWfUyFj-/view?usp=sharing)
 4. National Merit Scholarship - Semifinalist 2022 
+5. [National Society of High School (NSHS) Scholar](https://drive.google.com/file/d/12RROPKQApE38cwdx0wiu_d4xIf3RqnGL/view)
 5. [President's Outstanding Academic Award](https://drive.google.com/file/d/16gG3B9gPDE6Zk7gYrsa6CK1OjPLGPK38/view?usp=sharing)
 ## Extracurricular
 ### Projects
@@ -29,7 +30,8 @@
 1. [Choir Performances](https://github.com/amritg9/Portfolio/tree/main/Performances)
 2. [Theaterical Performances](https://github.com/amritg9/Portfolio/tree/main/Performances)
 3. [Choir performances - Leading National Anthem performance for Plano ISD]
-### Volunteering
+4. 
+## Volunteering
 1. [Plano East Helping Hands Club (Co-founder)](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
 2. [Music Production Club (Founder)](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
 3. Volunteering at the Local Hospice
