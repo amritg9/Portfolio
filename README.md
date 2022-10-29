@@ -39,4 +39,4 @@
    * [2022-2023 Plano ISD All Region First Chair](https://drive.google.com/file/d/1wwvosxgipMvmBGfFDN3whQSUK2UGGVjE/view)
    * [2017-2022 consecutive Texas All-Region Choir member](https://github.com/amritg9/Portfolio/blob/main/Performances/Readme.md)
    * [UIL Solo & Ensemble Outstanding Musician Award](https://drive.google.com/file/d/19HsCnIgO5I55labJhezS4-pqtVChp__l/view)
-   * 2019 Honors Performance Series Performer at Carnegie Hall]()
+   * [2019 Honors Performance Series Performer at Carnegie Hall]()
