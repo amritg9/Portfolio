@@ -10,7 +10,7 @@ I developed some interest in medical imaging and studying datasets used for vari
 ##### 2021 - 2022
 I'm currently researching hydroxyapatite and collagen in bone for their contribution to piezo and pyroelectricity, under the supervision of Mrs. Karen Compton. By studying the morphology of these two components, how their properties vary under different stress conditions, and their relation to each other, a clearer picture of the creation and role of electric properties in the bone can be established. This is an important area of research because it can bypass biomedical applications that use intrusive technology - such as pacemakers and - by using natural bioelectricity. 
 
-#### AI Powered Chest Disease Detection and Classification
+#### [AI Powered Chest Disease Detection and Classification](https://github.com/amritg9/Portfolio/blob/main/CourseraAIPoweredChestDisease.pdf)
 ##### 2022
 I completed an AI-Powered Chest Detection and Classification using Data science tools like python and a pre-trained ResNet convolutional neural network model to detect chest disease using a binary classification technique in Coursera. I plan to train and develop myself further on this technology for future bioinformatics research projects.
 
