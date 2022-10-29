@@ -15,10 +15,14 @@ An activity that I'm passionate about is singing. I am a 2022 Texas All-State Ch
 ##### 2022 - present
 Because of my passion for singing, I founded the Music Production Club at my school; as a group, we have arranged, performed, and recorded successfully numerous times.  Recently, we finished performing our rendition of ["Mr. Blue Sky"](https://youtu.be/PyHjsX8fWYA), and are working towards a series of summer sessions and performances. 
 
+#### Martial Arts and Rock Climbing
+##### 2014 - present
+An activity I liked and committed to was Tae Kwon Do. It allowed me to develop resilience both physically and mentally. I graduated from a junior to receive the [second degree black belt](https://drive.google.com/file/d/1_LiN2xK9HcH4uAK3VS3EK2XSw8G61JbL/view?usp=sharing) in a span of 7 years with Murphy ATA. In recent years, I have started pursuing rock climbing and have participated both in indoor and outdoor climbing pursuits and tournaments. I motivated a group of my friends to join Summit Gyms and have formed a circle to enjoy this sport; I'm planning to host a charity tournament soon as well. 
+
 #### Drama Performer at Bengali Association of DFW 
 ##### 2009 - 2019 
 Although I was born and raised here, my roots are in Kolkata, India. I've always wanted to connect with my roots and rich heritage, and so I grew up experiencing literature from many great icons of authorship. 
-[Nobel laureate Rabindranath Tagore](https://www.nobelprize.org/prizes/literature/1913/tagore/biographical/) is the author who inspired me most to continue learning more about my culture & language. Over the course of 10 years, I've participated in over 20  [traditional Bengali performances](https://youtube.com/playlist?list=PLeXsgQPFrM5wAsCDLslhMNHl_rZv4z9xv), taking part in plays, poems, and songs. 
+[Nobel laureate Rabindranath Tagore](https://www.nobelprize.org/prizes/literature/1913/tagore/biographical/) is the author who inspired me most to continue learning more about my culture & language. Over the course of 10 years, I've lead and participated in over 20  [traditional Bengali performances](https://youtube.com/playlist?list=PLeXsgQPFrM5wAsCDLslhMNHl_rZv4z9xv), taking part in plays, poems, and songs. 
 
 #### Speech and Debate 
 ##### 2017 - 2019
