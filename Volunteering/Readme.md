@@ -13,4 +13,4 @@ I'm [CPR certified](https://drive.google.com/file/d/17h2OFe0JQm8_9fEMJm6i6qsTgan
 
 #### Other Volunteering 
 ##### 2018-2019
-I joined Lion's Heart volunteering (lionsheartservices) to volunteer for many community efforts. One of the efforts that really connected me was Color a Smile that works to distribute artwork to put smile to people's faces. With my innate passion for creating artwork, I created 97 colored artwork for this organization. [Color a smile Letter](https://github.com/amritg9/Portfolio/blob/main/Volunteering/Ghosh%2C%20Amrit%20vl02.pdf)
+I joined Lion's Heart volunteering (lionsheartservices) to volunteer for many community efforts. One of the efforts that really connected me was Color a Smile that works to distribute artwork to put smile to people's faces. With my innate passion for creating artwork, I created 97 colored artwork for this organization. [Color a smile Letter](https://github.com/amritg9/Portfolio/blob/main/Volunteering/Ghosh%2C%20Amrit%20vl02.pdf). I also volunteered for Plano City Cleanup, [Plano Cares](https://www.plano.gov/969/Plano-CARES), Dallas ArtFest and [North Texas Food Bank](https://ntfb.org/) during Thanksgiving. 
