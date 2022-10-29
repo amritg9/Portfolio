@@ -8,7 +8,7 @@ I developed some interest in medical imaging and studying datasets used for vari
 
 #### Teacher-Supervised Chemistry Research
 ##### 2021 - 2022
-I'm currently researching hydroxyapatite and collagen in bone for their contribution to piezo and pyroelectricity, under the supervision of Mrs. Karen Compton. By studying the morphology of these two components, how their properties vary under different stress conditions, and their relation to each other, a clearer picture of the creation and role of electric properties in the bone can be established. This is an important area of research because it can bypass biomedical applications that use intrusive technology - such as pacemakers and - by using natural bioelectricity.
+I'm currently researching hydroxyapatite and collagen in bone for their contribution to piezo and pyroelectricity, under the supervision of Mrs. Karen Compton. By studying the morphology of these two components, how their properties vary under different stress conditions, and their relation to each other, a clearer picture of the creation and role of electric properties in the bone can be established. This is an important area of research because it can bypass biomedical applications that use intrusive technology - such as pacemakers and - by using natural bioelectricity. [Link to the paper](https://drive.google.com/file/d/1BIqV1P8yPyiMmM0HMqEkbWLrn4uGYmns/view?usp=sharing)
 
 #### AI Powered Chest Disease Detection and Classification
 ##### 2022
