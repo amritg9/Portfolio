@@ -17,8 +17,8 @@
 5. [Saving a baby infants life in a hot car with Arduino alarm](https://github.com/amritg9/Portfolio/tree/main/Projects)
 ### Training and Certificates
 1. [EMTS Paramedic Training - continuing](https://drive.google.com/file/d/1vZnTuH9Fu6uN2nnD4Uqd8By6aMQXnQ9J/view?usp=sharing)
-2. [Machine learning Hands on learning (Udemy)](https://github.com/amritg9/Portfolio/blob/main/udemyMachineLearning.pdf)
-3. [Introduction to Genomic Technologies (Coursera)](https://github.com/amritg9/Portfolio/blob/main/CourseraGenomicTechnologies.pdf)
+2. [Machine learning Hands on learning (Udemy)](https://github.com/amritg9/Portfolio/blob/main/Training/udemyMachineLearning.pdf)
+3. [Introduction to Genomic Technologies (Coursera)](https://github.com/amritg9/Portfolio/blob/main/Training/CourseraGenomicTechnologies.pdf)
 7. Deep learning specialization - Coursera - continuing
 ## Extracurricular
 ### Performances
