@@ -4,12 +4,11 @@
 
 ### Academics
 1. [Rank GPA: 4.64 (Weighted) Class Rank: 34/1404](https://drive.google.com/file/d/1O-y_HU9clQHOpGmMPAv9Qt1bHWfUyFj-/view?usp=sharing)
-2. [SAT : 1580](https://drive.google.com/file/d/1a2gnwtxbuc-0jXOs51AWWZLOijMjbUPl/view?usp=share_link) PSAT: 1480](https://drive.google.com/file/d/1LFhcs2eaY2g-_sI3MxpdPtswsvZ2S_Cu/view?usp=share_link)
-3. [IB and AP Coursework](https://drive.google.com/file/d/1O-y_HU9clQHOpGmMPAv9Qt1bHWfUyFj-/view?usp=sharing)
-4. National Merit Scholarship - Semifinalist 2022 
+2. [SAT : 1580](https://drive.google.com/file/d/1a2gnwtxbuc-0jXOs51AWWZLOijMjbUPl/view?usp=share_link) and [PSAT: 1480](https://drive.google.com/file/d/1LFhcs2eaY2g-_sI3MxpdPtswsvZ2S_Cu/view?usp=share_link)
+3. [IB (3 Honors out of 6 Total) and AP (5 Total)](https://drive.google.com/file/d/1O-y_HU9clQHOpGmMPAv9Qt1bHWfUyFj-/view?usp=sharing)
+4. [National Merit Scholarship - Semifinalist 2022](https://drive.google.com/file/d/1wKBs6MviVm1ZUkoo8nl6exXlYQiq6WSb/view?usp=share_link) 
 5. [National Society of High School (NSHS) Scholar](https://drive.google.com/file/d/12RROPKQApE38cwdx0wiu_d4xIf3RqnGL/view)
 5. [President's Outstanding Academic Award](https://drive.google.com/file/d/16gG3B9gPDE6Zk7gYrsa6CK1OjPLGPK38/view?usp=sharing)
-## Extracurricular
 ### Projects
 1. [Teacher-Supervised Chemistry Research](https://github.com/amritg9/Portfolio/tree/main/Projects)
 2. [Improving dense tissue breast cancer diagnosis with medical imaging]()
@@ -21,11 +20,7 @@
 2. [Machine learning Hands on learning (Udemy)](https://github.com/amritg9/Portfolio/blob/main/udemyMachineLearning.pdf)
 3. [Introduction to Genomic Technologies (Coursera)](https://github.com/amritg9/Portfolio/blob/main/CourseraGenomicTechnologies.pdf)
 7. Deep learning specialization - Coursera - continuing
-### Awards
-1. [2022 Texas All-State Choir member]()
-2. [2017-2022 consecutive Texas All-Region Choir member]()
-3. [UIL Solo & Ensemble Outstanding Musician Award]()
-4. [2019 Honors Performance Series Performer at Carnegie Hall]()
+## Extracurricular
 ### Performances
 1. [Choir Performances](https://github.com/amritg9/Portfolio/tree/main/Performances)
 2. [Theaterical Performances](https://github.com/amritg9/Portfolio/tree/main/Performances)
@@ -35,5 +30,11 @@
 1. [Plano East Helping Hands Club (Co-founder)](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
 2. [Music Production Club (Founder)](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
 3. Volunteering at the Local Hospice
+### Awards
+1. [2022 Texas All-State Choir member]()
+2. [2022 Plano ISD All Region First Chair]()
+2. [2017-2022 consecutive Texas All-Region Choir member]()
+3. [UIL Solo & Ensemble Outstanding Musician Award]()
+4. [2019 Honors Performance Series Performer at Carnegie Hall]()
 ### Summer camps
 1. Summer 2022 Choir camp - Commerce city
