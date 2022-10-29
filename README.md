@@ -28,7 +28,9 @@
 ## Volunteering
 1. [Plano East Helping Hands Club (Co-founder)](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
 2. [Music Production Club (Founder)](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
-3. Volunteering at the Local Hospice
+3. [American Red Cross CPR Certificate for Disaster Volunteering](https://drive.google.com/file/d/17h2OFe0JQm8_9fEMJm6i6qsTganMsD9g/view?usp=sharing)
+4. [Volunteering at the Local Hospice](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
+5. [Artwork to put smile in peoples faces](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
 ### Awards
 1. Academics
    * [National Merit Scholarship - Semifinalist 2022](https://drive.google.com/file/d/1wKBs6MviVm1ZUkoo8nl6exXlYQiq6WSb/view?usp=share_link)
