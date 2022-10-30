@@ -1,6 +1,6 @@
 # Amrit Ghosh 
 #### IB Student at Plano East Senior High
-### [Resume](https://docs.google.com/document/d/1VT8rC4aqFWtIULC7IGAugrSD9ABvgPHYTgmU08cPb3Q/edit)
+### [Resume (Current)](https://docs.google.com/document/d/1VT8rC4aqFWtIULC7IGAugrSD9ABvgPHYTgmU08cPb3Q/edit)
 
 ### Academics
 1. [Rank GPA: 4.64 (Weighted) Class Rank: 34/1404](https://drive.google.com/file/d/1O-y_HU9clQHOpGmMPAv9Qt1bHWfUyFj-/view?usp=sharing)
