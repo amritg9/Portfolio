@@ -17,7 +17,7 @@ Because of my passion for singing, I founded the Music Production Club at my sch
 
 #### Martial Arts and Rock Climbing
 ##### 2014 - present
-An activity I liked and committed to was Tae Kwon Do. It allowed me to develop resilience both physically and mentally. I graduated from a junior to receive the [second degree black belt](https://drive.google.com/file/d/1_LiN2xK9HcH4uAK3VS3EK2XSw8G61JbL/view?usp=sharing) in a span of 7 years with Murphy ATA. In recent years, I have started pursuing rock climbing and have participated both in indoor and outdoor climbing pursuits and tournaments. I motivated a group of my friends to join Summit Gyms and have formed a circle to enjoy this sport; I'm planning to host a charity tournament soon as well. 
+An activity I liked and committed to was Tae Kwon Do. It allowed me to develop resilience both physically and mentally. I graduated from a junior to receive the [second degree black belt](https://drive.google.com/file/d/1_LiN2xK9HcH4uAK3VS3EK2XSw8G61JbL/view?usp=sharing) in a span of 7 years with Murphy ATA. In recent years, I have started pursuing rock climbing and have participated both in indoor and outdoor climbing pursuits and tournaments. I motivated a group of my friends to join Summit Gyms and have formed a circle to enjoy this sport; I'm planning to host a charity tournament soon as well. [My passion for climbing](https://github.com/amritg9/Portfolio/blob/main/Performances/Climbing.md) 
 
 #### Drama Performer at Bengali Association of DFW 
 ##### 2009 - 2019 
