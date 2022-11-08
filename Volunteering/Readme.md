@@ -11,6 +11,10 @@ I started volunteering for Encompass Health Hospice around mid-2021. Talking to 
 ##### 2022 - Present
 I'm [CPR certified](https://drive.google.com/file/d/17h2OFe0JQm8_9fEMJm6i6qsTganMsD9g/view?usp=sharing) and a member of the American Red Cross.I am currently taking Emergency Medical Technician [(EMT)](https://drive.google.com/file/d/1vZnTuH9Fu6uN2nnD4Uqd8By6aMQXnQ9J/view?usp=sharing) training. I wish to apply the skills I learn and apply them to make a difference for the larger community in need.
 
+#### Music Production Club (Founder)
+2022 - Present
+Because of my passion for singing, I founded the Music Production Club at my school; as a group, we have arranged, performed, and recorded successfully numerous times.  Recently, we finished performing our rendition of ["Mr. Blue Sky"](https://youtu.be/PyHjsX8fWYA), and are working towards a series of summer sessions and performances. 
+
 #### Other Volunteering 
 ##### 2018-2019
 I joined Lion's Heart volunteering (lionsheartservices) to volunteer for many community efforts. One of the efforts that really connected me was Color a Smile that works to distribute artwork to put smile to people's faces. With my innate passion for creating artwork, I created 97 colored artwork for this organization. [Color a smile Letter](https://github.com/amritg9/Portfolio/blob/main/Volunteering/Ghosh%2C%20Amrit%20vl02.pdf). I also volunteered for Plano City Cleanup, [Plano Cares](https://www.plano.gov/969/Plano-CARES), Dallas ArtFest and [North Texas Food Bank](https://ntfb.org/) during Thanksgiving. 
