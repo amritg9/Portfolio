@@ -21,7 +21,7 @@ of selfless service as a key to solve this problem.
 
 Just as you established a long eyecare standard with [Pinaki Roy Eye Foundation](https://www.facebook.com/PinakiRayEyeFoundation/), I share the same
 belief and wish to change the status quo. I thank you for your exemplary work that has kindled
-hope in the world, and strive to uphold your belief in Tamosoma Jyotirgamaya: bringing light from
+hope in the world, and strive to uphold your belief in **_Tamosoma Jyotirgamaya:_** bringing light from
 darkness.
 
 Sincerely,
