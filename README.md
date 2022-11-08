@@ -43,4 +43,4 @@
    * [UIL Solo & Ensemble Outstanding Musician Award](https://drive.google.com/file/d/19HsCnIgO5I55labJhezS4-pqtVChp__l/view)
    * [2019 Honors Performance Series Performer at Carnegie Hall]()
 ### Inspiration
-1. [My inspiration]()
+1. [My inspiration](https://github.com/amritg9/Portfolio/blob/main/Inspiration/Inspiration.md)
