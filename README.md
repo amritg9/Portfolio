@@ -11,7 +11,7 @@
 5. [President's Outstanding Academic Award](https://drive.google.com/file/d/16gG3B9gPDE6Zk7gYrsa6CK1OjPLGPK38/view?usp=share_link)
 ### Projects
 1. [Teacher-Supervised Chemistry Research](https://github.com/amritg9/Portfolio/tree/main/Projects)
-2. [Improving dense tissue breast cancer diagnosis with medical imaging]()
+2. [Improving dense tissue breast cancer diagnosis with medical imaging](https://github.com/amritg9/Portfolio/blob/main/Projects/Readme.md)
 3. [AI Powered Chest Disease Detection and Classification (Coursera)](https://github.com/amritg9/Portfolio/blob/main/Training/CourseraAIPoweredChestDisease.pdf)
 4. [Volunteer Opportunity Scraping App using Python](https://github.com/amritg9/Portfolio/tree/main/Projects)
 5. [Saving a baby infants life in a hot car with Arduino alarm](https://github.com/amritg9/Portfolio/tree/main/Projects)
