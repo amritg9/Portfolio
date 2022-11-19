@@ -16,7 +16,8 @@
 4. [Volunteer Opportunity Scraping App using Python](https://github.com/amritg9/Portfolio/tree/main/Projects)
 5. [Saving a baby infants life in a hot car with Arduino alarm](https://github.com/amritg9/Portfolio/tree/main/Projects)
 ### Training and Certificates
-1. [EMTS Paramedic Training - continuing](https://drive.google.com/file/d/1vZnTuH9Fu6uN2nnD4Uqd8By6aMQXnQ9J/view?usp=sharing)
+1. [EMTS Paramedic Training](https://drive.google.com/file/d/1XFtRc2rKJMA7DTGFJxWvv96wJe87Df6j/view?usp=share_link)
+2. [32 hours of Clinical emergency experience](https://drive.google.com/file/d/1dbZ-xxkyDb1x5Q44XxRNaeH_ACIBiwAK/view?usp=share_link)
 2. [Machine learning Hands on learning (Udemy)](https://github.com/amritg9/Portfolio/blob/main/Training/udemyMachineLearning.pdf)
 3. [Introduction to Genomic Technologies (Coursera)](https://github.com/amritg9/Portfolio/blob/main/Training/CourseraGenomicTechnologies.pdf)
 7. Deep learning specialization - Coursera - continuing
