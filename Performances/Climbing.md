@@ -1,4 +1,6 @@
-#### Sharing a few moments of my climbing experience
+In recent years, I have started pursuing rock climbing and have participated both in indoor and outdoor climbing pursuits and tournaments. I motivated a group of my friends to join Summit Gyms and have formed a circle to enjoy this sport; I'm planning to host a charity tournament soon as well.
+
+#### Sharing some moments of my climbing experience
 
 As I rested on the smooth, slanted rock shelf, 250 feet in the air, I was overwhelmed by the scenery that flooded my vision. For miles and miles, I looked out at a sea of vivid green forestry, completely covering the soft, rolling hills of the Appalachians. As I looked toward the horizon, I was stunned by the brilliant blue gradient of the sky, complete with idyllic white clouds. Here I was, witnessing unforgettable beauty. 
 
