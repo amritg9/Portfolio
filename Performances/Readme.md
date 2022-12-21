@@ -4,7 +4,7 @@ An activity that I'm passionate about is singing. I am a 2022 Texas All-State Ch
 * ["Fionnghuala" - PESH Performance at TMEA All State Feb 2022, San Antonio TX](https://youtu.be/rswXQs0FGso)
 * National Anthem at [PISD Convocation 2022-2023](https://vimeo.com/737003485?ref=em-v-share) and [inter-school football game](https://youtu.be/nFfkYaXhgPI)
 * [The other side - Greatest showman](https://youtu.be/p9ej5WcC-NE)
-* [That's Life](https://drive.google.com/file/d/1hHWhkCpyjdJzn5BfSRHGojURO04q31H_/view?usp=share_link)
+* [That's Life](https://youtube.com/watch?v=nUM0UI5gJd0&si=EnSIkaIECMiOmarE)
 * [Choir youtube Playlist](https://youtube.com/playlist?list=PLeXsgQPFrM5zjWhMaizruyP4fi0olcGQ4)
 * Choir Awards
   * [Award Certificates](https://drive.google.com/file/d/19HsCnIgO5I55labJhezS4-pqtVChp__l/view?usp=share_link)
