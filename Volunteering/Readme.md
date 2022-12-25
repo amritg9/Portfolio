@@ -9,7 +9,7 @@ I started volunteering for Encompass Health Hospice around mid-2021. Talking to 
 
 #### Medical Volunteering training
 ##### 2022 - Present
-I'm [CPR certified](https://drive.google.com/file/d/17h2OFe0JQm8_9fEMJm6i6qsTganMsD9g/view?usp=sharing) and a member of the American Red Cross.I am currently taking Emergency Medical Technician [(EMT)](https://drive.google.com/file/d/1vZnTuH9Fu6uN2nnD4Uqd8By6aMQXnQ9J/view?usp=sharing) training. I have performed 32 hours of [clinical services volunteering](https://drive.google.com/file/d/1dbZ-xxkyDb1x5Q44XxRNaeH_ACIBiwAK/view?usp=share_link) under the supervision of an EMTS paramedic with real emergency patients. I am also a [Nationally certified emergency Technician](https://drive.google.com/file/d/1OPGnwMYN4Jd6ps8HiPgtA5rJ9QzFPD9f/view?usp=share_link). I wish to apply the skills I learn and apply them to make a difference for the larger community in need.
+I'm [CPR certified](https://drive.google.com/file/d/17h2OFe0JQm8_9fEMJm6i6qsTganMsD9g/view?usp=sharing) and a member of the American Red Cross.I am currently taking Emergency Medical Technician [(EMT)](https://drive.google.com/file/d/1XFtRc2rKJMA7DTGFJxWvv96wJe87Df6j/view?usp=share_link) training. I have performed 32 hours of [clinical services volunteering](https://drive.google.com/file/d/1dbZ-xxkyDb1x5Q44XxRNaeH_ACIBiwAK/view?usp=share_link) under the supervision of an EMTS paramedic with real emergency patients. I am also a [Nationally certified emergency Technician](https://drive.google.com/file/d/1OPGnwMYN4Jd6ps8HiPgtA5rJ9QzFPD9f/view?usp=share_link). I wish to apply the skills I learn and apply them to make a difference for the larger community in need.
 
 #### Music Production Club (Founder)
 ##### 2022 - Present
