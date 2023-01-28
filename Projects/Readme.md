@@ -4,7 +4,7 @@ As part of IB Biology IA research project, I worked on identifying the effect of
 
 #### Improve dense breast tissue cancer diagnosis with machine learning  
 ##### 2022 - 2023
-Using data science modeling techniques, I am working towards using clinical, image data and biometrics to implement an efficient diagnosis algorithm that can potentially save valuable time and effort in predicting dense tissue breast cancer detection. I am working under the supervision of a postdoctoral fellow researcher from Johns Hopkins University. [Research Abstract](https://docs.google.com/document/d/1LTkbRUUvM12QLJO-BZPqUg5W38R84zACaKFXZcnF1pI/edit?usp=share_link)
+Using data science modeling techniques, I am working towards using clinical, image data and biometrics to implement an efficient diagnosis algorithm that can potentially save valuable time and effort in predicting dense tissue breast cancer detection. I am working under the supervision of a postdoctoral fellow researcher from Johns Hopkins University. [Research Abstract](https://drive.google.com/file/d/1c2aOHjVF7a_FprkWIvgVk8dDJfvZ71jA/view?usp=share_link)
 
 #### Medical Imaging analysis and applicability
 ##### 2022 - Present
