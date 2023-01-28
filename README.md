@@ -19,7 +19,7 @@
 ### Training and Certificates
 1. [EMTS Paramedic Training](https://drive.google.com/file/d/1XFtRc2rKJMA7DTGFJxWvv96wJe87Df6j/view?usp=share_link)
 2. [Nationally Registered Emergency Medical Technicial (NREMT)](https://drive.google.com/file/d/1OPGnwMYN4Jd6ps8HiPgtA5rJ9QzFPD9f/view?usp=share_link)
-3. [32 hours of Clinical emergency experience](https://drive.google.com/file/d/1dbZ-xxkyDb1x5Q44XxRNaeH_ACIBiwAK/view?usp=share_link)
+3. [Clinical Emergency patient care experience](https://drive.google.com/file/d/1dbZ-xxkyDb1x5Q44XxRNaeH_ACIBiwAK/view?usp=share_link)
 4. [Machine learning Hands on learning (Udemy)](https://github.com/amritg9/Portfolio/blob/main/Training/udemyMachineLearning.pdf)
 5. [Introduction to Genomic Technologies (Coursera)](https://github.com/amritg9/Portfolio/blob/main/Training/CourseraGenomicTechnologies.pdf)
 6. Deep learning specialization - Coursera - continuing
