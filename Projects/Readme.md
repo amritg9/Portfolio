@@ -1,5 +1,9 @@
+#### The effect of environmental pH on the rate of Taq DNA Polymerase function
+##### 2023 - Present
+As part of IB Biology IA research project, I worked on identifying the effect of environmental pH on Taq DNA polymerase, an enzyme found in the thermophilic bacteria Thermusaquaticus, a species that thrives in high-temperature environments such as near deepsea vents and hot geysers. The work can be extended to improve access to genealogy and ancestral tracing.[Research paper](https://drive.google.com/file/d/1Oi5BbQZPMvADp659_bYMiUPM8l1DhBCJ/view?usp=sharing)  
+
 #### Improve dense breast tissue cancer diagnosis with machine learning  
-##### 2022 - Present
+##### 2022 - 2023
 Using data science modeling techniques, I am working towards using clinical, image data and biometrics to implement an efficient diagnosis algorithm that can potentially save valuable time and effort in predicting dense tissue breast cancer detection. I am working under the supervision of a postdoctoral fellow researcher from Johns Hopkins University. [Initial Abstract](https://docs.google.com/document/d/1LTkbRUUvM12QLJO-BZPqUg5W38R84zACaKFXZcnF1pI/edit?usp=share_link)
 
 #### Medical Imaging analysis and applicability
