@@ -32,8 +32,8 @@
    * [National Society of High School (NSHS) Scholar](https://drive.google.com/file/d/12RROPKQApE38cwdx0wiu_d4xIf3RqnGL/view)
    * [President's Outstanding Academic Award](https://drive.google.com/file/d/16gG3B9gPDE6Zk7gYrsa6CK1OjPLGPK38/view?usp=share_link)
 2. Extracurricular
-   * [2022 Texas All-State Choir member]()
-   * [2022-2023 Plano ISD All Region First Chair](https://drive.google.com/file/d/1wwvosxgipMvmBGfFDN3whQSUK2UGGVjE/view)
+   * [2022 and 2023 Texas All-State Choir member]()
+   * [2022-2023 Plano ISD Area and Region First Chair](https://drive.google.com/file/d/1wwvosxgipMvmBGfFDN3whQSUK2UGGVjE/view)
    * [2017-2022 consecutive Texas All-Region Choir member](https://github.com/amritg9/Portfolio/blob/main/Performances/Readme.md)
    * [UIL Solo & Ensemble Outstanding Musician Award](https://drive.google.com/file/d/19HsCnIgO5I55labJhezS4-pqtVChp__l/view)
    * [2019 Honors Performance Series Performer at Carnegie Hall]()
