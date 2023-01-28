@@ -1,13 +1,6 @@
 # Amrit Ghosh 
 #### IB Student at Plano East Senior High
 ### [Resume (Current)](https://docs.google.com/document/d/1VT8rC4aqFWtIULC7IGAugrSD9ABvgPHYTgmU08cPb3Q/edit)
-
-### Academics
-1. [Rank GPA: 4.64 (Weighted) Class Rank: 34/1404](https://drive.google.com/file/d/1O-y_HU9clQHOpGmMPAv9Qt1bHWfUyFj-/view?usp=sharing)
-2. [SAT : 1580](https://drive.google.com/file/d/1a2gnwtxbuc-0jXOs51AWWZLOijMjbUPl/view?usp=share_link) and [PSAT: 1480](https://drive.google.com/file/d/1LFhcs2eaY2g-_sI3MxpdPtswsvZ2S_Cu/view?usp=share_link)
-3. [National Society of High School (NSHS) Scholar](https://drive.google.com/file/d/12RROPKQApE38cwdx0wiu_d4xIf3RqnGL/view)
-4. [President's Outstanding Academic Award](https://drive.google.com/file/d/16gG3B9gPDE6Zk7gYrsa6CK1OjPLGPK38/view?usp=share_link)
-5. [PISD Regional Science Fair participant (2022-2023)](https://www.pisd.edu/Page/16568#:~:text=Secondary%20Science%20and%20Engineering%20Fair,Rd%2C%20Murphy%2C%20TX%2075094.)
 ### Projects
 1. [Teacher-Supervised Chemistry Research](https://github.com/amritg9/Portfolio/tree/main/Projects)
 2. [Improving dense tissue breast cancer diagnosis with medical imaging](https://github.com/amritg9/Portfolio/blob/main/Projects/Readme.md)
