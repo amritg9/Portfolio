@@ -28,7 +28,8 @@
 5. [Artwork to put smile in peoples faces](https://github.com/amritg9/Portfolio/tree/main/Volunteering)
 ### Awards
 1. Academics
-   * [National Merit Scholarship - Semifinalist 2022](https://drive.google.com/file/d/1wKBs6MviVm1ZUkoo8nl6exXlYQiq6WSb/view?usp=share_link)
+   * [National Merit Scholarship - Finalist 2023]
+   * [National Merit Scholarship - Semifinalist 2023](https://www.kxan.com/news/texas/list-here-are-the-texas-semifinalists-in-the-2023-national-merit-scholarship-program/)
    * [National Society of High School (NSHS) Scholar](https://drive.google.com/file/d/12RROPKQApE38cwdx0wiu_d4xIf3RqnGL/view)
    * [President's Outstanding Academic Award](https://drive.google.com/file/d/16gG3B9gPDE6Zk7gYrsa6CK1OjPLGPK38/view?usp=share_link)
 2. Extracurricular
